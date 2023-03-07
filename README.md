@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eladioyovera](https://github.com/eladioyovera)
 
-- 💬 Ask me about **Data Engineering, DataOps, Cloud Provider**
+- 💬 Ask me about **Data driven, DataOps, Cloud Providers**
 
 - 📫 How to reach me **eladio.yovera7@gmail.com**
 
